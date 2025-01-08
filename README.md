@@ -103,3 +103,68 @@
 | 12 | ZFNet | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/dl/zfnet/zfnet.py) |
 
 </details>
+
+<details><summary>Encoding</summary>
+
+| ID | Encoding | Link |
+| -- | -------- | ---- |
+| 1  | Count Encoding | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/encoding/count_encoding.py) |
+| 2  | Dummy Encoding | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/encoding/dummy_encoding.py) |
+| 3  | Effect Encoding | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/encoding/effect_encoding.py) |
+| 4  | One Hot Encoding | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/encoding/one_hot_encoding.py) |
+| 5  | Ordinal Encoding | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/encoding/ordinal_encoding.py) | 
+| 6  | Positional Encoding | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/encoding/positional_encoding.py) |
+| 7  | Weight of Evidence Encoding | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/encoding/woe_encoding.py) |
+
+</details>
+
+<details><summary>Layers</summary>
+
+| ID | Layers | Link | 
+| -- | ------ | ---- |
+| 1  | Convolution Layer | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/layers/Convolution%20Layer.ipynb) |
+| 2  | Convolution Transpose Layer | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/layers/Convolution%20Transpose%20Layer.ipynb) |
+| 3  | Dropout Layer | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/layers/Dropout%20Layer.ipynb) |
+| 4  | Flatten Layer | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/layers/Flatten%20Layer.ipynb) |
+| 5  | Pooling Layer | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/layers/Pooling%20Layer.ipynb) |
+| 6  | Zero Padding Layer | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/layers/Zero%20Padding%20Layer.ipynb) |
+| 7  | Dense Layer | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/layers/dense_layer.py) |
+
+</details>
+
+<details><summary>Loss Functions</summary>
+
+| ID | Loss Functions | Link | 
+| -- | -------------- | ---- | 
+| 1  | Adversarial Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/adversarial_loss.py) |
+| 2  | Binary Crossentropy Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/binary_cross_entropy_loss.py) |
+| 3  | Binary Focal Crossentropy Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/binary_focal_cross_entropy_loss.py) |
+| 4  | Categorical Crossentropy Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/categorical_cross_entropy_loss.py) |
+| 5  | Categorical Focal Crossentropy Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/categorical_focal_cross_entropy_loss.py) |
+| 6  | Categorical Hinge Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/categorical_hinge_loss.py) |
+| 7  | Cosine Similarity Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/cosine_similarity.py) |
+| 8  | CTC (Connectionist Temporal Classification) Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/ctc_loss.py) |
+| 9  | Dice Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/dice_loss.py) |
+| 10 | Gaussian Negative Loglikelihood Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/gaussian_negative_log_likelihood.py) |
+| 11 | Hinge Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/hinge_loss.py) |
+| 12 | Huber Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/huber_loss.py) |
+| 13 | Kullback-Leibler Divergence Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/kullback_leibler_divergence_loss.py) |
+| 14 | Log Cosh Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/log_cosh_loss.py) |
+| 15 | Log Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/log_loss.py) |
+| 16 | Margin Ranking Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/margin_ranking_loss.py) |
+| 17 | Mean Absolute Error Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/mean_absolute_error_loss.py) |
+| 18 | Mean Absolute Percentage Error Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/mean_absolute_percentage_error_loss.py) |
+| 19 | Mean Squared Error Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/mean_squared_error.py) |
+| 20 | Mean Squared Logarithmic Error Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/mean_squared_logarithmic_error.py) |
+| 21 | Multi Label Margin Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/multi_label_margin_loss.py) |
+| 22 | Mutli Label Soft Margin Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/multi_label_soft_margin_loss.py) |
+| 23 | Multi Margin Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/multi_margin_loss.py) |
+| 24 | Negative Loglikelihood Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/negative_log_likelihood.py) |
+| 25 | Poisson Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/poisson_loss.py) |
+| 26 | Poisson Negative Loglikelihood Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/poisson_negative_log_likelihood.py) |
+| 27 | Soft Margin Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/soft_margin_loss.py) |
+| 28 | Sparse Categorical Crossentropy Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/sparse_categorical_crossentropy_loss.py) |
+| 29 | Squared Hinge Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/squared_hinge_loss.py) |
+| 30 | Tversky Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/tversky_loss.py) |
+
+</details>
