@@ -168,3 +168,205 @@
 | 30 | Tversky Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/losses/tversky_loss.py) |
 
 </details>
+
+<details><summary>Metrics</summary>
+
+| ID | Metrics | Link |
+| -- | ------- | ---- |
+| 1  | Accuracy Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/accuracy_score.py) |
+| 2  | Akaike Information Criterion (AIC) | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/akaike_information_criterion.py) |
+| 3  | Average Precision Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/average_precision_score.py) |
+| 4  | Balanced Accuracy Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/balanced_accuracy_score.py) |
+| 5  | Bayesian Information Criterion (BIC) | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/bayesian_information_criterion.py) |
+| 6  | BLEU Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/bleu_score.py) |
+| 7  | Completeness Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/completeness_score.py) |
+| 8  | Confusion Matrix | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/confusion_matrix.py) |
+| 9  | Correlation Matrix | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/correlation_matrix.py) |
+| 10 | Covariance Matrix | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/covariance_matrix.py) |
+| 11 | Explained Variance Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/explained_variance_score.py) |
+| 12 | F1 Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/f1_score.py) |
+| 13 | F2 Score | | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/f2_score.py) |
+| 14 | F3 Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/f3_score.py) |
+| 15 | F-Beta Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/f_beta_score.py) |
+| 16 | Homogenity Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/homogenity_score.py) |
+| 17 | Jaccard Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/jaccard_score.py) |
+| 18 | Loglikelihood | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/log_likelihood.py) |
+| 19 | Log Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/log_loss.py) |
+| 20 | Log Softmax | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/log_softmax.py) |
+| 21 | Max Error | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/max_error.py) |
+| 22 | McFadden's Pseudo R2 | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/mcfaddens_pseudo_r_squared.py) |
+| 23 | Mean Absolute Error | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/mean_absolute_error.py) |
+| 24 | Mean Percentage Error | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/mean_percentage_error.py) |
+| 25 | Mean Squared Error | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/mean_squared_error.py) |
+| 26 | Mutual Info Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/mutual_info_score.py) |
+| 27 | Perplexity Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/perplexity_score.py) |
+| 28 | Precision Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/precision_score.py) |
+| 29 | PSNR | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/psnr.py) |
+| 30 | R-Squared | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/r_squared.py) |
+| 31 | Rand Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/rand_score.py) |
+| 32 | Recall Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/recall_score.py) |
+| 33 | ROC-AUC | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/roc_auc.py) |
+| 34 | Root Mean Squared Error | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/root_mean_squared_error.py) |
+| 35 | SSIM | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/ssim.py) |
+| 36 | Top-K Accuracy Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/top_k_accuracy_score.py) |
+| 37 | V Measure Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/v_measure_score.py) |
+| 38 | Winkler Interval Score | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/metrics/winkler_interval_score.py) |
+
+</details>
+
+<details><summary>Missing Value</summary>
+
+| ID | Missing Value | Link |
+| -- | ------------- | ---- |
+| 1  | Arbitrary Number Imputation | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/missing%20value/arbitrary_number_imputation.py) |
+| 2  | Backward Fill | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/missing%20value/backward_fill.py) |
+| 3  | Forward Fill | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/missing%20value/forward_fill.py) |
+| 4  | Frequent Category Imputation | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/missing%20value/frequent_category_imputation.py) |
+| 5  | Mean Imputation | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/missing%20value/mean_imputation.py) |
+| 6  | Median Imputation | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/missing%20value/median_imputation.py) |
+| 7  | Mode Imputation | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/missing%20value/mode_imputation.py) |
+
+</details>
+
+<details><summary>Machine Learning</summary>
+
+| ID | Machine Learning | Link |
+| -- | ---------------- | ---- |
+| 1  | Adaptive Boosting | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/adaptive%20boosting/AdaBoost.ipynb) |
+| 2  | ARD Regression | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/ard%20regression/ARD%20Regression.ipynb) |
+| 3  | Dummy Classifier | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/dummy%20classifier/DummyClassifier.ipynb) |
+| 4  | Dummy Regressor | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/dummy%20regressor/DummyRegressor.ipynb) |
+| 5  | ElasticNet | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/elastic%20net/Elastic%20Net.ipynb) |
+| 6  | Genetic Algorithm | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/genetic%20algorithm/GA.ipynb) |
+| 7  | Gradient Boosting Classifier | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/gradient%20boosting%20classifier/GBC.ipynb) |
+| 8  | Gradient Boosting Regressor | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/gradient%20boosting%20regressor/GBR.ipynb) |
+| 9  | KMeans | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/kmeans/K-Means.ipynb) |
+| 10 | KNN | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/knn/KNN.ipynb) |
+| 11 | Lasso Regression | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/lasso%20regression/Lasso.ipynb) |
+| 12 | Linear Regression | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/linear%20regression/Linear%20Regression.ipynb) |
+| 13 | Logistic Regression | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/logistic%20regression/Logistic%20Regression.ipynb) |
+| 14 | MLP | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/mlp/MLP.ipynb) |
+| 15 | Bernoulli Naive Bayes | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/naive%20bayes/Bernoulli%20Naive%20Bayes.ipynb) |
+| 16 | Gaussian Naive Bayes | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/naive%20bayes/Gaussian%20Naive%20Bayes.ipynb) |
+| 17 | Multinomial Naive Bayes | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/naive%20bayes/Multinomial%20Naive%20Bayes.ipynb) |
+| 18 | PCA | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/pca/PCA.ipynb) |
+| 19 | Perceptron | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/perceptron/Perceptron.ipynb) |
+| 20 | Poisson Regression | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/poisson%20regression/Poisson%20Regression.ipynb) |
+| 21 | Quantile Regression | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/quantile%20regression/QuantileRegression.ipynb) |
+| 22 | Ridge Regression | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/ridge%20regression/Ridge%20Regression.ipynb) |
+| 23 | SSVM | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/ml/svm/SVM.ipynb) |
+
+</details>
+
+<details><summary>NLP</summary>
+
+| ID | NLP | Link |
+| -- | --- | ---- |
+| 1  | Byte Pair Encoding | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/nlp/byte_pair_encoding.py) |
+| 2  | LESK Algorithm | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/nlp/lesk_algorithm.py) |
+| 3  | N-Gram | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/nlp/ngram.py) |
+| 4  | Shannon's Game | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/nlp/shannons_game.py) |
+| 5  | TF-IDF | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/nlp/tf_idf.py) |
+| 6  | Word Movers Distance | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/nlp/word_movers_distance.py) |
+| 7  | ZipF Law | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/nlp/zipf_law.py) |
+
+</details>
+
+<details><summary>Optimizers</summary>
+
+| ID | Optimizers | Link |
+| -- | ---------- | ---- |
+| 1  | Adadelta | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/Adadelta.ipynb) |
+| 2  | Adafactor | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/Adafactor.ipynb) |
+| 3  | Adagrad | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/Adagrad.ipynb) |
+| 4  | Adam | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/Adam.ipynb) |
+| 5  | AdamW | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/AdamW.ipynb) |
+| 6  | Adamax | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/Adamax.ipynb) |
+| 7  | Batch Gradient Descent | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/Batch%20Gradient%20Descent.ipynb) |
+| 8  | FTRL | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/FTRL.ipynb) |
+| 9  | Lion | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/Lion.ipynb) |
+| 10 | Mini-Batch Gradient Descent | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/Mini-Batch%20Gradient%20Descent.ipynb) |
+| 11 | NAdam | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/NAdam.ipynb) |
+| 12 | RAdam | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/RAdam.ipynb) |
+| 13 | RMSprop | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/RMSprop.ipynb) |
+| 14 | Sparse Adam | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/Sparse%20Adam.ipynb) |
+| 15 | Stochastic Gradient Descent | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/optimizers/Stochastic%20Gradient%20Descent.ipynb) |
+
+</details>
+
+<details><summary>Outliers</summary>
+
+| ID | Outliers | Link |
+| -- | -------- | ---- | 
+| 1  | One-Class SVM | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/outliers/One-Class%20SVM.ipynb) |
+| 2  | Local Outlier Factor (LOF) | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/outliers/local_outlier_factor.py) |
+| 3  | Mahalanobis Distance Method | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/outliers/mahalanobis_distance_method.py) |
+| 4  | Modified Z Score Method | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/outliers/modified_z_score_method.py) |
+| 5  | Standard Deviation Method | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/outliers/standard_deviation_method.py) |
+| 6  | Tukey's IQR Method | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/outliers/tukeys_iqr_method.py) |
+| 7  | Winsorization Method | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/outliers/winsorization_method.py) |
+| 8  | Z Score Method | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/outliers/z_score_method.py) |
+
+</details>
+
+<details><summary>Recommendation Systems</summary>
+
+| ID | Recommendation Systems | Link |
+| -- | ---------------------- | ---- | 
+| 1  | Content-based Filtering | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/recommendation/content_based_filtering.py) |
+
+</details>
+
+<details><summary>Sampling</summary>
+
+| ID | Sampling | Link |
+| -- | -------- | ---- | 
+| 1  | ADASYN | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/sampling/adasyn/ADASYN.ipynb) |
+| 2  | AllKNN | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/sampling/allknn/AllKNN.ipynb) |
+| 3  | Borderline SMOTE | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/sampling/borderline%20smote/BorderlineSMOTE.ipynb) |
+| 4  | Cluster Centroids | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/sampling/cluster%20centroids/Cluster%20Centroids.ipynb) |
+| 5  | Condensed Nearest Neighbors | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/sampling/condensed%20nearest%20neighbors/CNN.ipynb) |
+| 6  | Edited Nearest Neighbors | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/sampling/edited%20nearest%20neighbors/ENN.ipynb) |
+| 7  | Near Miss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/sampling/near%20miss/NearMiss.ipynb) |
+| 8  | One Sided Selection | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/sampling/one%20sided%20selection/One%20Sided%20Selection.ipynb) |
+| 9  | Random Over Sampler | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/sampling/random%20over%20sampler/RandomOverSampler.ipynb) |
+| 10 | Random Under Sampler | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/sampling/random%20under%20sampler/RandomUnderSampler.ipynb) |
+| 11 | SMOTE | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/sampling/smote/SMOTE.ipynb) |
+| 12 | Tomek Links | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/sampling/tomek%20links/TomekLinks.ipynb) |
+
+</details>
+
+<details><summary>Scaling</summary>
+
+| ID | Scaling | Link |
+| -- | ------- | ---- |
+| 1  | Maximum Absolute Scaling | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/scaling/maximum_absolute_scaling.py) |
+| 2  | Min Max Normalization | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/scaling/min_max_normalization.py) |
+| 3  | Robust Scaling | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/scaling/robust_scaling.py) |
+| 4  | Standardization | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/scaling/standardization.py) |
+
+</details>
+
+<details><summary>Time Series</summary>
+
+| ID | Time Series | Link |
+| -- | ----------- | ---- |
+| 1  | Lowess | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/time%20series/lowess.py) |
+| 2  | Moving Average | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/time%20series/moving_average.py) |
+
+</details>
+
+<details><summary>Transformation</summary>
+
+| ID | Transformation | Link |
+| -- | -------------- | ---- |
+| 1  | Box-cox Transform | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/transformation/box_cox_transform.py) |
+| 2  | Cube Root Transform | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/transformation/cube_root_transform.py) |
+| 3  | Log Transform | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/transformation/log_transform.py) |
+| 4  | Power Transform | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/transformation/power_transform.py) |
+| 5  | Quantile Transform | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/transformation/quantile_transform.py) |
+| 6  | Reciprocal Transform | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/transformation/reciprocal_transform.py) |
+| 7  | Square Root Transform | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/transformation/square_root_transform.py) |
+| 8  | Yeo-Johnson Transform | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/transformation/yeo_johnson_transform.py) |
+
+</details>
