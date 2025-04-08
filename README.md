@@ -50,6 +50,22 @@
 
 </details>
 
+<details><summary>Class Weight</summary>
+
+| ID | Class Weight | Link |
+| -- | ------------ | ---- |
+| 1  | Class-Balanced Focal Loss | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/class-weights/class_balanced_focal_loss.py) |
+| 2  | Effective Number of Samples (ENS) | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/class-weights/effective_number_of_samples.py) |
+| 3  | Inverse of Class Frequencies (IF) | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/class-weights/inverse_of_class_frequencies.py) |
+| 4  | Inverse of Number of Samples (INS) | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/class-weights/inverse_of_number_of_samples.py) |
+| 5  | Inverse of Square Root of Number of Samples (ISNS) | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/class-weights/inverse_of_square_root_of_number_of_samples.py) |
+| 6  | Log Inverse Frequency (LIF) | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/class-weights/log_inverse_frequency.py) |
+| 7  | Median Frequency Balancing (MFB) | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/class-weights/median_frequency_balancing.py) |
+| 8  | Square Root Inverse Frequency (SRIF) | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/class-weights/square_root_inverse_frequency.py) |
+| 9  | Uniform Class Weighting (UCW) | [Link](https://github.com/thealper2/ml-dl-implementations/blob/main/class-weights/uniform_class_weighting.py) |
+
+</details>
+
 <details><summary>Cross Validation</summary>
 
 | ID | Cross Validation | Link |
